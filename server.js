@@ -23,4 +23,4 @@ app.use((req, res, next) => {
 });
 
 // start listening
-app.listen(9000, () => console.log(`app started on 9000`));
+app.listen(() => console.log(`app started on 9000`));
