@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.428faf3e.chunk.css",
+    "main.js": "/static/js/main.e6f239f6.chunk.js",
+    "main.js.map": "/static/js/main.e6f239f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.339146cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.339146cf.js.map",
+    "static/js/2.5dd8e561.chunk.js": "/static/js/2.5dd8e561.chunk.js",
+    "static/js/2.5dd8e561.chunk.js.map": "/static/js/2.5dd8e561.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.169e1dd82d0f34a77df9bef6483408dc.js": "/precache-manifest.169e1dd82d0f34a77df9bef6483408dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.428faf3e.chunk.css.map": "/static/css/main.428faf3e.chunk.css.map",
+    "static/js/2.5dd8e561.chunk.js.LICENSE.txt": "/static/js/2.5dd8e561.chunk.js.LICENSE.txt",
+    "static/media/baby.svg": "/static/media/baby.d6c432e7.svg",
+    "static/media/boy.svg": "/static/media/boy.d65d0ad1.svg",
+    "static/media/car.svg": "/static/media/car.12941d96.svg",
+    "static/media/chat.svg": "/static/media/chat.2e84af03.svg",
+    "static/media/clothes.svg": "/static/media/clothes.6f35e9b2.svg",
+    "static/media/girl.svg": "/static/media/girl.6dc6f52d.svg",
+    "static/media/img.svg": "/static/media/img.1624f139.svg",
+    "static/media/logo.svg": "/static/media/logo.a4d17a79.svg",
+    "static/media/money.svg": "/static/media/money.0c786030.svg",
+    "static/media/robot.svg": "/static/media/robot.7ca25a82.svg",
+    "static/media/toys.svg": "/static/media/toys.34220cdf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.339146cf.js",
+    "static/js/2.5dd8e561.chunk.js",
+    "static/css/main.428faf3e.chunk.css",
+    "static/js/main.e6f239f6.chunk.js"
+  ]
+}
