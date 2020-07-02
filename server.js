@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 
+require('dotenv').config();
 // init express
 const app = express();
 
@@ -23,4 +24,4 @@ app.use((req, res, next) => {
 });
 
 // start listening
-app.listen(4900,() => console.log(`app started on 4900`));
+app.listen(process.env.PORT,() => console.log(`app started on 5000`));
