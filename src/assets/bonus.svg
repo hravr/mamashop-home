@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="126px" viewBox="0 0 215 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <defs>
+        <path d="" id="path-1"></path>
+        <filter x="-7.7%" y="-20.5%" width="15.5%" height="41.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect x="0" y="0" width="15" height="15" id="rect-3"></rect>
+        <rect x="0" y="0" width="15" height="15" id="rect-4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-63.000000, -1839.000000)">
+            <g id="body-bg" transform="translate(-28.000000, 0.000000)" fill="#FF0066">
+                <path d="" id="bg"></path>
+            </g>
+            <g id="main" transform="translate(-135.000000, 76.000000)">
+                <g id="news" transform="translate(0.000000, 1718.000000)">
+                    <g id="news-carousel" transform="translate(0.000000, 52.000000)">
+                        <g id="news-item" opacity="0.2">
+                            <g id="news-img"></g>
+                        </g>
+                        <g id="news-item" transform="translate(208.000000, 0.000000)">
+                            <g id="news-detail" transform="translate(0.000000, 106.000000)">
+                                <g id="bg">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="comment" transform="translate(161.000000, 6.000000)">
+                                    <text id="3-" font-family="Helvetica" font-size="10.289329" font-weight="normal" line-spacing="10.1678164">
+                                        <tspan x="9.49566924" y="12.7111448" fill="#010101">3</tspan>
+                                        <tspan x="15.2181037" y="12.7111448" fill="#E1E1E1"> </tspan>
+                                    </text>
+                                    <g>
+                                        <image x="0" y="0" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAABc2lDQ1BJQ0MgUHJvZmlsZQAAKJF9kLtKA2EQhb8kSkQjQbQQsVgwWiUSIoilJkUQUoQYwajNZs1FSNZls2LEVrCxCFiINt4KX0C0FawFQVEEsfIJFG1E1lmjxAs4MMzH+f8ZZg64A6phlJrCUNYtMxWPKlOZacX7gBc3fsJ0qFrFGEsmE0h81Z/xco3LqZchZ9bf93+jbS5X0cDVIjysGaYlPCrct2QZDs8Jd5mylHDV4UKd1x3O1nn34086FRM+Ela0oip9rivhoFY0y8gxEoHstz+Fb1wuLWqf+ziX+HL65ITUHsleKqSIE0UhyyLzlLAISdXBylUtpym2YCyb84WipYyJAzllXNcGg0okHBFfHT9/+9TQFmT3kWfw1BpadhNO1qD7tqEFdsC/CsdnhmqqH5JH0p3Pw+MhtGeg8wJaZyr5oUj9El8Umu9t+6kfvBvwVrPt1z3bftuX5js41evefM7i4AbSK5A4h61tGJDZ/tl3hsZnP8nuEjgAAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAAA+gAwAEAAAAAQAAAA8AAAAAJP75MwAAAVpJREFUKBV100srRGEAh/Fxi5RbSims7Bi5liztJvkAykJ21oodPoCNLCwsKTvKThRZobAhReSSS5oml+SywPOMOY05w79+57yXeTvvbSKRdAooDmEbT3jBBaZQg39TRc8OltCJHJhajOMOMWTFLzpwNKsn3dBK8RbN6aafklP1i6YI5SGldpA+HKHFShDX6FTNCs7/0EibS3EP3tCDZIObU4YvdMH1/84nlVW8YgHHcLbRfB7GgaYX1clS5uOA6hk8gUPMYMTBcbirV7jGO8JxqiYKB25hPZfHMgZh7vEQkqDulBvgkvZwiUokL8AN76xjsDOVYt5ubH+qnsc74Zef4dSDHaeYkSZqG9jFPEw7Ttx+G+uxiEcEqaDgVJ3eGOYQxN+uOTiGQnhcJZjELDZxin0Ep0ExMoBhtCErXgCv4gTqEE4HDfZ3hzuCuv+iaXijPNvwCXzQFv8GaKZTc76PFZEAAAAASUVORK5CYII="></image>
+                                        <use fill="#37CDEA" fill-rule="evenodd" xlink:href="#rect-3"></use>
+                                    </g>
+                                </g>
+                                <g id="calendar" transform="translate(8.000000, 7.000000)">
+                                    <g>
+                                        <image x="0" y="0" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAABc2lDQ1BJQ0MgUHJvZmlsZQAAKJF9kLtKA2EQhb8kSkQjQbQQsVgwWiUSIoilJkUQUoQYwajNZs1FSNZls2LEVrCxCFiINt4KX0C0FawFQVEEsfIJFG1E1lmjxAs4MMzH+f8ZZg64A6phlJrCUNYtMxWPKlOZacX7gBc3fsJ0qFrFGEsmE0h81Z/xco3LqZchZ9bf93+jbS5X0cDVIjysGaYlPCrct2QZDs8Jd5mylHDV4UKd1x3O1nn34086FRM+Ela0oip9rivhoFY0y8gxEoHstz+Fb1wuLWqf+ziX+HL65ITUHsleKqSIE0UhyyLzlLAISdXBylUtpym2YCyb84WipYyJAzllXNcGg0okHBFfHT9/+9TQFmT3kWfw1BpadhNO1qD7tqEFdsC/CsdnhmqqH5JH0p3Pw+MhtGeg8wJaZyr5oUj9El8Umu9t+6kfvBvwVrPt1z3bftuX5js41evefM7i4AbSK5A4h61tGJDZ/tl3hsZnP8nuEjgAAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAAA+gAwAEAAAAAQAAAA8AAAAAJP75MwAAAUJJREFUKBWNkiFLREEURt+qK8oaVCwGQZuCVZu4BrtgWAX/gEn/gtUgNrHIRoPBtPkJIohlg6DxBUEEwwaDQdBzxpllTO4HZ+9379yZ+2bYovirC9J7WIJteIBDmIE76EBfw9HNEndhDU5gHzZhD45hAW5hDibgFT6gaMTkm9iFLdDLfOb9guuYu7nh5BU4ADUK47BsguqwGlxR1IiLMA1O74zw44Y32IGk82SIV5lP9hJTd7P6hFIzoOwvhrLmJt57eq8y+laM5um+TXxQmmzSgxt4BO+k3sFaF3zdSbAvKJ+cagPHfLKnroMnJ38Wa4RQd921oHxzReUInmEMSngCaxX4SN3oCb9qEiowDvpgoT+f7Kkb4CNZ9/OcbK0HX3AK9gXZZPMU2NxfwCfltReK9tnvvvC3axM92c/+D/vaUPsBKk1YPYE7RaMAAAAASUVORK5CYII="></image>
+                                        <use fill="#37CDEA" fill-rule="evenodd" xlink:href="#rect-4"></use>
+                                    </g>
+                                    <text id="20-травня---20-червня" font-family="Helvetica" font-size="10.092263" font-weight="normal" line-spacing="10.1648692" fill="#010101">
+                                        <tspan x="12.9006206" y="10.7955684">20 травня - 20 червня</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="news-img"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="header" transform="translate(-2.000000, -1.000000)"></g>
+        </g>
+    </g>
+</svg>

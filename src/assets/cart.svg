@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shopping-bag</title>
+    <defs>
+        <rect x="0" y="0" width="21" height="25" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-305.000000, -3.000000)">
+            <g id="body-bg" transform="translate(-28.000000, 0.000000)" fill="#FF0066">
+                <path d="" id="bg"></path>
+            </g>
+            <g id="main" transform="translate(-135.000000, -3.000000)">
+                <g id="btn" transform="translate(105.000000, 0.000000)"></g>
+                <g id="btn" transform="translate(105.000000, 0.000000)"></g>
+            </g>
+            <g id="header" transform="translate(-2.000000, -1.000000)">
+                <g id="header-top" transform="translate(1.000000, 0.000000)">
+                    <path d="" id="Прямокутник-858" fill="#FF0066"></path>
+                    <g id="cart-block" transform="translate(306.000000, 4.000000)">
+                        <g id="shopping-bag">
+                            <image x="0" y="0" width="21" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAZCAYAAADe1WXtAAABdGlDQ1BJQ0MgUHJvZmlsZQAAKJF9kLtKA2EQhb8kSsRELLRQsVgwWkWRKGJpkiIIFhIjGLXZrLkIybpsNhixFWwsAhaijbfCFxBtBWtBUBRBrHwCRRsJ66xR4gUcGObj/P8MMwfcAdUw8g2DUNAtMx6LKDPJWcX7iBc3PjoZVrWiEZ6cnEDiq/6M1xtcTr3qd2b9ff83fAvpogauJuERzTAt4THhnmXLcHhBuN2UpYTLDmdrvOFwqsZ7H38S8ajwsbCi5VTpc10LB7WcWUCOkQikvv3JfuNCvqR97uNc4k/r01NSuyS7KRInRgSFFCUWyWPRL1UHK122nKbokrFiLmZzlhIWB9LKuK4NBJXQYEh8dfz87VNdW5LdR1/AU6lrqS04XYeOu7oW2IXWNTg5N1RT/ZA8ku5MBp6OoCUJbZfQPFfMDIVql/gj0Phg28+94N2EasW23/Ztu3ogzfdwpte8+ZzF4S0kVmHiArZ3oE9mt86/A5aQZ0fcyZPfAAAAOGVYSWZNTQAqAAAACAABh2kABAAAAAEAAAAaAAAAAAACoAIABAAAAAEAAAAVoAMABAAAAAEAAAAZAAAAAO4j3TUAAAG3SURBVEgNrZO7L2VRFIcZYrgYCo+LEIrpSGg0ihHhH5CQqPQiQieip5AoNVNPq9UpNBoNpUIiMp6JkEg84vF9N+ec7Ny4IvecX/LlrMfe6+zH2hUVXytHeg3O4B0uYBN+QVmqY9Z+xDjfLhiFXTiCsgqvMvEAfkKoKpw92AiD37UPGThVYvAE8dMSuS/Dt2QHS4zoJe4Zf6rqKFrJt6loxA/8RmguiuvG51mcuyf3Fo+fw/DPaVmxoKtRPbAFrjjmDnso8OO43z5QYWwd3zpJ0TZsezCNrphsnaRoHttgGl0y2TpJ0RbsawOR5vk2wALYl6Hc8lIUWA4SzrdOIntuJPK6+T7DDJzAJIQaw/GopuEB+kENgLefrNSziFf6YgJ1gq/pUSfQE3YNmPeiXYByvi1Yq6NhK4V96ip2YAXcbrEWCZifDRIek3UKHfAbw79nIS972OW3Qrz1tIVvKNBi0XY4T1stmu8F5i3qJfmHLFR4APH2bdws5DG2WrQDsiqabN9XkNX2k5VmeVGF9+/2bf74FWGmkv1e72vZgD/g6/gP5cp+/wvHFsjBP3C1PrNyeWXuNjR9AHO9aNman3YnAAAAAElFTkSuQmCC"></image>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                        </g>
+                        <g id="count" transform="translate(3.000000, 11.000000)">
+                            <path d="" id="Еліпс-1" fill="#FFFFFF"></path>
+                            <text id="1" font-family="Verdana" font-size="12.4223149" font-weight="normal" fill="#FF0066">
+                                <tspan x="15.5513052" y="18">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

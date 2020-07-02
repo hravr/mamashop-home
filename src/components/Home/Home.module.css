@@ -1,0 +1,121 @@
+.main {
+  padding: 15px;
+}
+
+.robotoSearch {
+  display: flex;
+  justify-content: space-around;
+}
+
+.searchText {
+  max-width: 200px;
+}
+
+.searchText > span {
+  color: aqua;
+}
+
+.searchInput {
+  border-radius: 20px;
+  margin: 15px 0;
+  border: 1px solid #ff0066;
+  padding: 5px 15px;
+}
+
+.question {
+  text-align: center;
+}
+
+.advangates {
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+.advangate {
+  max-width: 80px;
+  font-size: 10px;
+  word-break: break-word;
+  text-align: center;
+  color: rgba(97, 96, 96, 0.3);
+}
+
+.gender {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 0;
+}
+
+.genderImgGirl {
+  max-width: 85px;
+  padding: 25px;
+  border-radius: 25px;
+  box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.3);
+  background-color: #f7aecb;
+}
+
+.genderImgBoy {
+  max-width: 85px;
+  padding: 25px;
+  border-radius: 25px;
+  box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.3);
+  background-color: #c7eff7;
+}
+
+.girl {
+  color: #ff0066;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.boy {
+  color: #37cdea;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.categories {
+  box-sizing: border-box;
+  /* max-width: 350px; */
+}
+
+.categories > h3 {
+  text-align: right;
+  width: 40%;
+  margin-top: -30px;
+}
+
+.category__baby {
+  text-align: center;
+  width: 400px;
+}
+
+.category__baby > img,
+.category__clothes > img,
+.category__toys > img {
+  margin: 5px;
+  border-radius: 20px;
+  box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+.category_rest {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.new__title,
+.popular__title,
+.bonus__title {
+  text-align: center;
+}
+
+.new__products,
+.new__bonus {
+  display: flex;
+  justify-content: space-around;
+}
+
+.new__bonus{
+  overflow: hidden;
+}
